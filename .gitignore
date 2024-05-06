@@ -1,0 +1,5 @@
+#ignorar todos los archivos .log 
+*log.
+archivo.txt
+#ignorar la carpeta
+temp/
